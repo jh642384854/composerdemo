@@ -1,0 +1,14 @@
+{
+    "name": "jh642384854/composerdemo",
+    "description": "composer demo test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jh642384854",
+            "email": "642384854@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
